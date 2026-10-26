@@ -1,5 +1,3 @@
-Fingerprint a copy of one album first. A live recording forced onto a studio release will rename every track wrong. Keep the untagged spare until the player shows the titles you wanted. If the lengths do not fit the release, do not save. Tag a copy, play one file, and keep the untagged spare.
-
 # MusicBrainz Picard - Name Tracks You Already Have
 
 ![MusicBrainz Picard with a folder of the user's own audio before tags are saved](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXbalg4YXJqKzrAOcQFv2kfB_Bvy7O29hy8Pc0ZKhTP5WsdryB4S-UGg&s=10)
